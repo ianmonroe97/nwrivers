@@ -4,7 +4,7 @@ import pandas as pd
 RiverDB = mysql.connector.connect(
    host = "localhost",
    user = "root",
-   passwd = "Gnarlycarly97@",
+   passwd = "dummypass",
    database = "riverdata"
 )
 

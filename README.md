@@ -1,3 +1,3 @@
 # nwrivers
 Northwest River Stuff!
-This is a working project to gather river data on all of the Wild and Scenic Rivers in the Pacific Northwest - starting with Central Oregon.
+This is a project for pulling and loading river data from an USGS API and loading it into a MySQL Database. This data is used to group rivers by drainage and get the most up to date data for any given river or drainage.
